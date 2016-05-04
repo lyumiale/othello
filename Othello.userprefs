@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/NetworkMgr.cs">
+    <Files>
+      <File FileName="Assets/Script/SetUp.cs" Line="18" Column="26" />
+      <File FileName="Assets/Script/Main.cs" Line="123" Column="3" />
+      <File FileName="Assets/Script/SocketIoMgr.cs" Line="6" Column="38" />
+      <File FileName="Assets/Script/ReverseChecker.cs" Line="26" Column="24" />
+      <File FileName="Assets/Script/HomeScript.cs" Line="33" Column="17" />
+      <File FileName="Assets/Script/NetworkMgr.cs" Line="22" Column="1" NotebookId="1" />
+      <File FileName="Assets/Script/GameMgr.cs" Line="51" Column="21" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
